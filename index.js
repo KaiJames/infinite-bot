@@ -58,4 +58,4 @@
 		// }
 // });
 
-// client.login('MzkxMjkwNTI3MzM0NTMxMDcy.DRWhYA.lYN6T3rlu8VDXkHKCP71AG3iZY0');
+// client.login('process.env.BOT_TOKEN');
